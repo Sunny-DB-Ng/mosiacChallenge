@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+.articleHeadline {
+  border-top: solid 1px black;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
